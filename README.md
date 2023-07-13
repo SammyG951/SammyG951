@@ -8,6 +8,7 @@
   - CSS
   - JavaScript
   - ASP.NET MVC
+  - Java
 -  📈 Driven by a passion for continuous growth, I am not afraid to step outside my comfort zone and tackle diverse programming challenges.
 -  🧩 Currently, I am expanding my skill set by exploring different technologies, frameworks, and programming languages to broaden my horizons.
 -  💻 I actively engage in online courses and coding challenges to stay at the forefront of the ever-evolving programming landscape.
